@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Supun Seneviratne</h1>
 <h3 align="center">A passionate UI/UX Designer and Front-End Developer</h3>
 
-![UI-UX differences-bro](https://github.com/Zive2001/Zive2001/assets/132709960/e15461fc-d575-4a82-bafb-60fa70a8a2ee)
+![UI-UX differences](https://github.com/Zive2001/Zive2001/assets/132709960/a5f5ee09-72d0-4253-b43e-03bc89a440df)
+
 
 - 🔭 I’m currently working on **a Corporate Portal Design**
 
