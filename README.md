@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Supun Seneviratne
 #### I am an Undergraduate at SLIIT 
-![I am an Undergraduate at SLIIT ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an Undergraduate at SLIIT ](https://storyset.com/illustration/ui-ux-differences/bro/animate?share=73226)
 
 I am an undergraduate student majoring in Software Engineering at SLIIT (Sri Lanka Institute of Information Technology). My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
 
