@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Supun+Seneviratne+.+.+.+.+.)](https://git.io/typing-svg)
 <img src="https://github.com/Zive2001/Zive2001/assets/132709960/92b4bd29-4cfa-4d26-98b9-a6b30dcd8ed9" width="2800" height="2">
 
-<h3 align="center">style="color: #FF5733"A passionate UI/UX Designer and Front-End Developer</h3>
+<h3 align="center" style="color: #1d2d44;">A passionate UI/UX Designer and Front-End Developer</h3>
+
 
 I am an undergraduate student majoring in Software Engineering at SLIIT **(Sri Lanka Institute of Information Technology)**. My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
 
