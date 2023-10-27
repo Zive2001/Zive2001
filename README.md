@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=435&lines=Hello+There+!+I+Am+Supun+Seneviratne)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Supun Seneviratne</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=435&lines=Hello+There+!+👋+I+Am+Supun+Seneviratne)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate UI/UX Designer and Front-End Developer</h3>
 
 I am an undergraduate student majoring in Software Engineering at SLIIT **(Sri Lanka Institute of Information Technology)**. My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
