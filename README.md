@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Supun+Seneviratne+.+.+.+.+.)](https://git.io/typing-svg)
+![Cover Image](https://github.com/Zive2001/Zive2001/assets/132709960/25d4e81b-1748-4278-ae59-5bd8358f5c3e)
+
 
 <h3 align="center">A passionate UI/UX Designer and Front-End Developer</h3>
 
