@@ -1,4 +1,4 @@
-[![MasterHead] width="200"(https://github.com/Zive2001/Zive2001/assets/132709960/bb2a4f41-8a94-469d-ae95-4552e4d30aa7)]
+[![MasterHead] <img align="right" alt="Coding" width="200" src="https://github.com/Zive2001/Zive2001/assets/132709960/4a431d0f-c692-4cd0-ba94-274120021d43">]
 
 <h1 align="center">Hi 👋, I'm Supun Seneviratne</h1>
 <h3 align="center">A passionate UI/UX Designer and Front-End Developer</h3>
