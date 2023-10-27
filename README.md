@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=435&lines=Hello+There+!+👋+I+Am+Supun+Seneviratne)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=435&lines=Hello+There+!+I+Am+Supun+Seneviratne)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate UI/UX Designer and Front-End Developer</h3>
 
