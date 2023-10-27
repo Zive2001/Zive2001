@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Supun Seneviratne</h1>
 <h3 align="center">A passionate UI/UX Designer and Front-End Developer</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/Zive2001/Zive2001/assets/132709960/4a431d0f-c692-4cd0-ba94-274120021d43">
-<p1 I am an undergraduate student majoring in Software Engineering at SLIIT (Sri Lanka Institute of Information Technology). My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
-</p1>
+<h6 I am an undergraduate student majoring in Software Engineering at SLIIT (Sri Lanka Institute of Information Technology). My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
+</h6>
 
 - 🔭 I’m currently working on **a Corporate Portal Design**
 
