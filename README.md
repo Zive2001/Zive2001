@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Supun+Seneviratne+.+.+.+.+.)](https://git.io/typing-svg)
-
 <img src="https://github.com/Zive2001/Zive2001/assets/132709960/42fe4271-ccea-4495-b89f-2661680ee066" width="2800" height="7">
 
 
