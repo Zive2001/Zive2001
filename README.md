@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A9396&center=true&random=false&width=650&lines=Hello+There+👋+I+Am+Supun+Seneviratne+.+.+.+.+.)](https://git.io/typing-svg)
 <img src="https://github.com/Zive2001/Zive2001/assets/132709960/92b4bd29-4cfa-4d26-98b9-a6b30dcd8ed9" width="2800" height="2">
-<img src="https://github.com/Zive2001/Zive2001/assets/132709960/89764c91-2fe3-49f7-85ee-26c476504325" width="2800" height="200">
+<img src="https://github.com/Zive2001/Zive2001/assets/132709960/42fe4271-ccea-4495-b89f-2661680ee066" width="2800" height="200">
 
 
 
