@@ -16,9 +16,9 @@ I am an undergraduate student majoring in Software Engineering at SLIIT **(Sri L
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://www.figma.com/@Zive](https://www.figma.com/@Zive)
-<img align="right" alt="Coding" width="150" src="https://github.com/Zive2001/Zive2001/assets/132709960/f5a176eb-52eb-40b3-81e4-6695018d6b13">
-<img align="right" alt="Coding" width="150" src="https://github.com/Zive2001/Zive2001/assets/132709960/8509aa99-251e-4422-b5d3-a0405fd5f549">
-<img align="right" alt="Coding" width="150" src="https://github.com/Zive2001/Zive2001/assets/132709960/a71146ee-a47c-40b7-aa12-577fa03ef863"> 
+<img align="right" alt="Coding" width="130" src="https://github.com/Zive2001/Zive2001/assets/132709960/f5a176eb-52eb-40b3-81e4-6695018d6b13">
+<img align="right" alt="Coding" width="130" src="https://github.com/Zive2001/Zive2001/assets/132709960/8509aa99-251e-4422-b5d3-a0405fd5f549">
+<img align="right" alt="Coding" width="130" src="https://github.com/Zive2001/Zive2001/assets/132709960/a71146ee-a47c-40b7-aa12-577fa03ef863"> 
 
 
 
