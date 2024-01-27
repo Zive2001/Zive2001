@@ -8,7 +8,7 @@
 <h3 align="center" style="color: #1d2d44;">A passionate UI/UX Designer and Front-End Developer</h3>
 
 
-I am an undergraduate student majoring in Software Engineering at SLIIT **(Sri Lanka Institute of Information Technology)**. My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
+I am an undergraduate student majoring in Information Technology at SLIIT **(Sri Lanka Institute of Information Technology)**. My passion lies in UI/UX design and front-end development. I enjoy creating visually appealing and user-friendly interfaces that make a positive impact on the user experience.
 
 
 - 🔭 I’m currently working on **a Corporate Portal Design**
