@@ -3,6 +3,7 @@
 
 
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 <h3 align="center" style="color: #1d2d44;">A passionate UI/UX Designer and Front-End Developer</h3>
